@@ -4,6 +4,6 @@
 
 - [visualisation de la présentation avec nbviewer](https://nbviewer.jupyter.org/github/mbuffat/public/blob/master/presentation.ipynb)
 
-## Liste de notebook sur mon site à l'université Lyon 1
+## Liste des notebooks d'enseignement sur mon site à l'université Lyon 1
 
 - Notebook Python pour mes enseignements àl'université Lyon 1: [https://perso.univ-lyon1.fr/marc.buffat/](https://perso.univ-lyon1.fr/marc.buffat/)
